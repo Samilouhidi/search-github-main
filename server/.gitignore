@@ -1,0 +1,6 @@
+.env
+node_modules/
+.expo/
+npm-debug.*
+web-build/
+
